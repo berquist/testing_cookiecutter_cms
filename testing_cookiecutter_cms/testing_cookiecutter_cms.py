@@ -29,6 +29,10 @@ def canvas(with_attribution=True):
     return quote
 
 
+def add(left, right):
+    return left + right
+
+
 if __name__ == "__main__":
     # Do something if this file is invoked on its own
     print(canvas())
