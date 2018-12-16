@@ -3,6 +3,8 @@ testing_cookiecutter_cms.py
 A short description of the project.
 
 Handles the primary functions
+
+Adding a string.
 """
 
 
