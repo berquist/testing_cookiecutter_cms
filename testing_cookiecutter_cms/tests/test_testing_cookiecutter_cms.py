@@ -17,7 +17,7 @@ def test_testing_cookiecutter_cms_imported():
 
 
 def test_add():
-    left = 5
+    left = 6
     right = 2
-    ref = 7
+    ref = 8
     assert testing_cookiecutter_cms.add(left, right) == ref
