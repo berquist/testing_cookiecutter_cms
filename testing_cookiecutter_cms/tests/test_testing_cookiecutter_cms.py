@@ -2,6 +2,8 @@
 Unit and regression test for the testing_cookiecutter_cms package.
 
 Adding a string.
+
+Adding another string.
 """
 
 # Import package, test suite, and other packages as needed
